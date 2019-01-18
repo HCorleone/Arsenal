@@ -29,11 +29,11 @@
 
 2. HHDropDownList：下拉菜单
 
-   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/HHDropDownList.PNG)
+<img src="https://github.com/HCorleone/Arsenal/blob/master/pic/HHDropDownList.PNG" alt="Sample"  width="375" height="667">
 
 3. YZPullDownMenu：下拉菜单
 
-   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/YZPullDownMenu.PNG)
+<img src="https://github.com/HCorleone/Arsenal/blob/master/pic/YZPullDownMenu.PNG" alt="Sample"  width="375" height="667">
 
 
 
