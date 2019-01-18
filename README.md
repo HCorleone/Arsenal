@@ -25,7 +25,7 @@
 
 1. AreaSelect：地区选择器
 
-   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/AreaSelect.PNG =200)
+<img src="https://github.com/HCorleone/Arsenal/blob/master/pic/AreaSelect.PNG" alt="Sample"  width="375" height="667">
 
 2. HHDropDownList：下拉菜单
 
