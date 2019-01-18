@@ -25,15 +25,15 @@
 
 1. AreaSelect：地区选择器
 
-   ![](/Users/Corleone/swift/Arsenal/pic/AreaSelect.PNG)
+   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/AreaSelect.PNG)
 
 2. HHDropDownList：下拉菜单
 
-   ![](/Users/Corleone/swift/Arsenal/pic/HHDropDownList.PNG)
+   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/HHDropDownList.PNG)
 
 3. YZPullDownMenu：下拉菜单
 
-   ![](/Users/Corleone/swift/Arsenal/pic/YZPullDownMenu.PNG)
+   ![](https://github.com/HCorleone/Arsenal/blob/master/pic/YZPullDownMenu.PNG)
 
 
 
