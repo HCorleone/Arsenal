@@ -33,7 +33,7 @@
 
 3. YZPullDownMenu：下拉菜单
 
-<img src="https://github.com/HCorleone/Arsenal/blob/master/pic/YZPullDownMenu.PNG" alt="Sample"  width="375" height="667">
+<img src="https://github.com/HCorleone/Arsenal/blob/master/pic/YZPullDownMenu.png" alt="Sample"  width="375" height="667">
 
 
 
